@@ -8,10 +8,10 @@
 Acest proiect studiază și modelează numeric dispersia căldurii într-un microprocesor, utilizând **Metoda Diferențelor Finite (FDM)**. Simularea pornește de la un model simplificat 1D și scalează până la un model complex 3D, inspirat de arhitectura procesorului **Intel 8086** și de provocările termice ale procesoarelor moderne.
 
 ## 👥 Autori
-**Grupa 164**
+
 * **Soisun Mina-David**
 * **Jianu Toma**
-* *Coordonator Științific / Curs: Bucătaru Mihai* 
+* **Coordonator Științific / Curs: Bucătaru Mihai** 
 
 ---
 
